@@ -6,5 +6,5 @@ This script is meant to change the EEPROM contents of X520 based derivatives to:
 
 - Unlock the card for multiple SFP brands.
 - Change the sub-vendor IDs to be able to use multiple driver versions.
-- Example Usage: Change sub-vendor ID from "Dell" to "Sonnet", such that the the Sonnet Mac OS drivers can be used ([Support page](https://www.sonnettech.com/support/kb/kb.php?cat=514#position_content))
+- Example Usage: Change sub-vendor ID from "Dell" to "Sonnet", such that Sonnet drivers can be used ([Support page](https://www.sonnettech.com/support/kb/kb.php?cat=514#position_content))
 
